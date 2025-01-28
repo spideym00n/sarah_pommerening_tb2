@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4CAF50"         # Color for buttons and highlights
+backgroundColor = "#D2B48C"      # Main app background
+secondaryBackgroundColor = "#F5DEB3"  # Sidebar background
+textColor = "#000000"            # Default text color
+font = "sans serif"              # Font family
