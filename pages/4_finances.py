@@ -16,13 +16,13 @@ col1, col2, col3 = st.columns([1, 1, 1])
 
 with col1:
     st.components.v1.iframe("https://www.singlemothersurvivalguide.com/",
-                            height=400,
+                            height=800,
                             scrolling=True)
 with col2:
-    st.components.v1.iframe("https://www.ellevest.com/magazine/personal-finance/single-moms",
-                            height=400,
+    st.components.v1.iframe("https://zenhabits.net/100-ways-to-have-fun-with-your-kids-for/",
+                            height=800,
                             scrolling=True)
 with col3:
-    st.components.v1.iframe("https://www.members1st.org/blog/articles/budgeting-tips-for-single-parents/",
-                            height=400,
+    st.components.v1.iframe("https://tinytravelship.com/how-to-find-budget-friendly-family-holidays/",
+                            height=800,
                             scrolling=True)
